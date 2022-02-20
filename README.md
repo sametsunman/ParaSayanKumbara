@@ -1,6 +1,7 @@
 # ParaSayanKumbara
 
-Arduino ile yapılan Para sayan kumbara
+Arduino ile yapılan Para sayan kumbara (Bilgisayar Mühendisliği Bitirme Projesi)
+- Proje Dökümanı: https://sametsunman.asnus.com/doc/Tez.pdf
 
 ### Breadboard
 
