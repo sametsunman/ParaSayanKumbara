@@ -19,6 +19,6 @@ Arduino ile yapılan Para sayan kumbara (Bilgisayar Mühendisliği Bitirme Proje
 ### Mobil Uygulama
 
 <div align="center">
-  <img width="600" src="/proje3.png"><br />
+  <img height="600" src="/proje3.png"><br />
 </div>
 
